@@ -1,0 +1,4 @@
+flask
+pandas
+altair
+vega_datasets
